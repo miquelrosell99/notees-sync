@@ -1,3 +1,5 @@
+> **Archived 2026-11-12.** Re-merged into [`miquelrosell99/notees`](https://github.com/miquelrosell99/notees) (ADR-001) — core + server + web live there again. This repo is a read-only mirror of the final split state (tag `final-split-state`); the vendor-dispatch automation and all future development moved with the merge.
+
 # Notees Sync
 
 **One object graph. The operation log is the only authority. Every interface — UI, CLI, API, export — is a projection of the same derived state.**
